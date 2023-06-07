@@ -1,4 +1,4 @@
-##CSS Lesson 1 and 2 Task 6 | Guide to Preparing Egusi Soup and Pounded Yam
+##CSS Lesson 1 and 2 Task 6 | Registration Form
 
 Link To live site : https://ig-matrix.github.io/Lesson_1and2_Task_6_Omoma_Ighawosa/
 
